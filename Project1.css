@@ -1,0 +1,39 @@
+.hydro{font-size: 45px;}
+h1{font-size: 55px;}
+.harp{font-size: 30px;}
+.pock{font-size: 30px;}
+.hink{font-size: 30px;}
+.grat{font-size: 30px;}
+.try{font-size: 30px;}
+.dast{font-size: 30px;}
+.welo{font-size: 30px;}
+.tesr{font-size: 55px;}
+body {
+    background-color: lightcyan;}
+
+.bottom-right {
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    white-space: nowrap; 
+}
+
+.image {
+    vertical-align: middle;
+    width: 120px;
+}
+
+.text {
+    margin-left: 8px;
+}
+.right-side {
+    position: fixed;
+    right: 0;   
+    top: 50%;  
+    transform: translateY(-50%); }
+
+.center-img {
+    display: block;
+    margin: 0 auto;
+}
+
